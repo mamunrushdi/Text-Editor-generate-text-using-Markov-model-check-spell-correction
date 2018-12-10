@@ -24,13 +24,13 @@ __5. Autocompletio__ Whean user starts to type a word, following his typed lette
 1. Calculating Flesch Score of a given text: ![](/img/fleschscore.png) 
 
 1. Generating markov text:
-    1.
+    
     ![](/img/texttogeneratemarkovtext.png)
     
-    1. 
+     
     ![](/img/trianingmarkovtextgenerator.png)
     
-    1.
+    
     ![](/img/generatedmarkovtext.png)
     
 1. Edite distanace:

@@ -4,5 +4,5 @@ This program was written as an assignment of the Data Structures and Performance
 
 ### Description
 __1. Flesch score:__ A Flesch score of text indicate how difficult a passage in English is to understand. The less is the score the difficlut is to read the text is.
-__Programming implementation example__ ![](/img/1. fleschscore.png)
+__Programming implementation example__ ![](/img/fleschscore.png)
 

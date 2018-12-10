@@ -40,7 +40,7 @@ __5. Autocompletio__ Whean user starts to type a word, following his typed lette
   
 1. Spell Checking: ![](/img/spelldetetion.png)
 
-1. Spell Sugesion: ![](/img/spellsugestion.png)
+1. Spell Suggestion: ![](/img/spellsugestion.png)
 
 1. Autocompletion: ![](/img/autocompletion.png) 
 

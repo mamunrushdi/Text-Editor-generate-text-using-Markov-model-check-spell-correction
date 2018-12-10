@@ -15,21 +15,30 @@ __5. Autocompletio__ Whean user starts to type a word, following his typed lette
 #### From this I course I've learnt the followings:
 1. Working with Strings
 1. Regular expressions
-1. Efficiency Analysis and Benchmarking (ig O, Time complexity)
+1. Efficiency Analysis and Benchmarking (Big O, Time complexity)
 1. Trees! (including Binary Search Trees and Tries)
 
 ### Example of the program's implementation.
 1. Program started: ![](/img/openinginterface.png)
+
 1. Calculating Flesch Score of a given text: ![](/img/fleschscore.png) 
+
 1. Generating markov text:
     1. ![](/img/texttogeneratemarkovtext.png)
+    
     1. ![](/img/trianingmarkovtextgenerator.png)
+    
     1. ![](/img/generatedmarkovtext.png)
+    
 1. Edite distanace:
   1. Calculating edit of two words: ![](/img/editdistance1.png)
+  
   1. Finding the path of those two words: ![](/img/editdistance2.png)
+  
 1. Spell Checking: ![](/img/spelldetetion.png)
+
 1. Spell Sugesion: ![](/img/spellsugestion.png)
+
 1. Autocompletion: ![](/img/autocompletion.png) 
 
 ## [Accomplishment certificate](https://github.com/mmncoder/Coursera-Certificates/blob/master/2.2.%20Data%20Structures%20and%20Performance.pdf)

@@ -15,7 +15,7 @@ __5. Autocompletio__ Whean user starts to type a word, following his typed lette
 
 #### From this I course I've learnt the followings:
 1. Working with Strings
-1. Regular expressions
+1. Regular expressions in detailed.
 1. Efficiency Analysis and Benchmarking (Big O, Time complexity)
 1. Trees! (including Binary Search Trees and Tries)
 
